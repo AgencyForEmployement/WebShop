@@ -1,4 +1,4 @@
-package com.webShop.dto;
+package com.webShop.WebShop.dto;
 
 import com.webShop.WebShop.enums.UserType;
 

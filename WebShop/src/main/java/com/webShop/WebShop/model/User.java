@@ -20,9 +20,9 @@ public class User implements UserDetails {
     @Column
     private long id;
     @Column
-    private String firstName;
+    private String name;
     @Column
-    private String lastName;
+    private String surname;
     @Column(unique = true)
     private String email;
     @Column
@@ -30,19 +30,25 @@ public class User implements UserDetails {
     @Column
     private boolean enabled;
     @Column
-    private String phoneNumber;
+    private String telephoneNumber;
     @OneToOne(fetch = FetchType.EAGER,cascade =  CascadeType.ALL)
     private Address address;
+    @Column
+    private String education;
+    @Column
+    private String experience;
     @ManyToOne(fetch = FetchType.EAGER,cascade =  CascadeType.ALL)
     private Role role;
 
-    public User(String firstName, String lastName, String email, String password, String phoneNumber, Address address) {
-        this.firstName = firstName;
-        this.lastName = lastName;
+    public User(String name, String surname, String email, String password, String telephoneNumber, Address address, String education, String experience) {
+        this.name = name;
+        this.surname = surname;
         this.email = email;
         this.password = password;
-        this.phoneNumber = phoneNumber;
+        this.telephoneNumber = telephoneNumber;
         this.address = address;
+        this.education = education;
+        this.experience = experience;
     }
 
     @Override

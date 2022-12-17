@@ -1,4 +1,4 @@
-package com.webShop.dto;
+package com.webShop.WebShop.dto;
 
 public class AuthenticationRequestDto {
     public String email;

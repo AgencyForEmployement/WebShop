@@ -3,9 +3,9 @@ package com.webShop.WebShop.controller;
 import com.webShop.WebShop.model.User;
 import com.webShop.WebShop.service.UserService;
 import com.webShop.WebShop.utils.TokenUtils;
-import com.webShop.dto.AuthenticationRequestDto;
-import com.webShop.dto.UserReqistrationDto;
-import com.webShop.dto.UserTokenStateDto;
+import com.webShop.WebShop.dto.AuthenticationRequestDto;
+import com.webShop.WebShop.dto.UserReqistrationDto;
+import com.webShop.WebShop.dto.UserTokenStateDto;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -43,9 +43,9 @@ public class AuthenticationController {
 
     @PostMapping(value="/register")
     public ResponseEntity<User> registration(@RequestBody UserReqistrationDto userReqistrationDto) {
-       User user = userService.findByEmail(userReqistrationDto.email);
+        User user = userService.findByEmail(userReqistrationDto.email);
         if (user == null){
-            user = userService.save(new User(userReqistrationDto.firstName, userReqistrationDto.lastName, userReqistrationDto.email, userReqistrationDto.password, userReqistrationDto.phoneNumber, userReqistrationDto.address));
+            user = userService.save(new User(userReqistrationDto.name, userReqistrationDto.surname, userReqistrationDto.email, userReqistrationDto.password, userReqistrationDto.telephoneNumber, userReqistrationDto.address, userReqistrationDto.education, userReqistrationDto.experience));
             return new ResponseEntity<>(user, HttpStatus.CREATED);
         }
         else
