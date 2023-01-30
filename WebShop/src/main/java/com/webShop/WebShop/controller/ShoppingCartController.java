@@ -10,6 +10,7 @@ import com.webShop.WebShop.model.ShoppingCart;
 import com.webShop.WebShop.model.User;
 import com.webShop.WebShop.service.ShoppingCartService;
 import lombok.AllArgsConstructor;
+import org.apache.log4j.Logger;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
@@ -26,6 +27,7 @@ public class ShoppingCartController {
     private final ShoppingCartService shoppingCartService;
     private final ShoppingCartDtoMapper shoppingChartMapper;
     private final ServicesDtoMapper servicesMapper;
+    final static Logger log = Logger.getLogger(WebShopApplication.class.getName());
 
     @PreAuthorize("hasAnyRole('USER')")
     @GetMapping
@@ -33,6 +35,7 @@ public class ShoppingCartController {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         User user = (User)authentication.getPrincipal();
         ShoppingCartDto cart = shoppingChartMapper.fromShoppingCartToDto(user.getShoppingCart());
+        log.info("Loading user cart...");
         return new ResponseEntity<>(cart, HttpStatus.OK);
     }
 
@@ -42,6 +45,7 @@ public class ShoppingCartController {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         User user = (User)authentication.getPrincipal();
         ShoppingCart chart = shoppingCartService.addServiceToChart(servicesMapper.fromServiceDtoToService(serviceDto), user);
+        log.info("New service with service id " + serviceDto.id + " added tp cart");
         return new ResponseEntity<>(shoppingChartMapper.fromShoppingCartToDto(chart), HttpStatus.OK);
     }
 
@@ -50,6 +54,7 @@ public class ShoppingCartController {
     public ResponseEntity<ShoppingCartDto> removeServiceFromCart(@PathVariable long id){
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         User user = (User)authentication.getPrincipal();
+        log.info("Service with service id " + id + " removed from user cart. Cart id " + user.getShoppingCart().getId());
         return new ResponseEntity<>(shoppingChartMapper.fromShoppingCartToDto(shoppingCartService.deleteServiceFromChart(id, user)), HttpStatus.OK);
     }
 }
