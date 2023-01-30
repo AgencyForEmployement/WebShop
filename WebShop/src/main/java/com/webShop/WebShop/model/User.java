@@ -1,5 +1,7 @@
 package com.webShop.WebShop.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -14,7 +16,6 @@ import java.util.*;
 @NoArgsConstructor
 @AllArgsConstructor
 public class User implements UserDetails {
-
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     @Column
@@ -37,9 +38,13 @@ public class User implements UserDetails {
     private String education;
     @Column
     private String experience;
+    @OneToOne(fetch = FetchType.EAGER,cascade =  CascadeType.ALL)
+    private ShoppingCart shoppingCart;
+    @OneToMany(mappedBy = "user", fetch = FetchType.LAZY, cascade = CascadeType.ALL)
+    @JsonIgnoreProperties("user")
+    private List<Transaction> transactions;
     @ManyToOne(fetch = FetchType.EAGER,cascade =  CascadeType.ALL)
     private Role role;
-
     public User(String name, String surname, String email, String password, String telephoneNumber, Address address, String education, String experience) {
         this.name = name;
         this.surname = surname;

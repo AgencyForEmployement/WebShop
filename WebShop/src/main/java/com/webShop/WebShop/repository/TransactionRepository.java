@@ -1,18 +1,14 @@
 package com.webShop.WebShop.repository;
 
 import com.webShop.WebShop.model.Transaction;
-import com.webShop.WebShop.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
-
 import java.util.List;
 
 @Repository
-public interface UserRepository extends JpaRepository<User,Long> {
-    User findByEmail(String email);
+public interface TransactionRepository extends JpaRepository<Transaction, Long> {
 
-    @Query("select u from User u left join fetch u.transactions t where u.id = ?1 ")
-    User findUserTransactions(long id);
+    @Query(value= "select t from Transaction t join fetch User u where u.id = ?1", nativeQuery = true)
+    List<Transaction> findTransactionsForUser(long id);
 }
-
