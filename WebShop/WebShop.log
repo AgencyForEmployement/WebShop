@@ -1,0 +1,40 @@
+2023-01-31 23:47:23 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-31 23:47:33 | INFO  | WebShopApplication:46 - User with user id  31 is logged in.
+2023-01-31 23:47:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-01-31 23:47:33 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-31 23:47:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-01-31 23:47:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-31 23:47:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-31 23:47:36 | INFO  | WebShopApplication:48 - New service with service id 20 added tp cart
+2023-01-31 23:47:37 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-01-31 23:47:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-31 23:47:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-31 23:47:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-31 23:47:37 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-01-31 23:53:47 | INFO  | WebShopApplication:53 - New transaction created with transaction id 35
+2023-01-31 23:53:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-31 23:53:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:03:15 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:03:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:03:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:03:15 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:03:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:03:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:11:42 | INFO  | WebShopApplication:48 - New service with service id 24 added tp cart
+2023-02-01 00:11:43 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:11:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:11:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:11:43 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:11:43 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:11:43 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:11:45 | INFO  | WebShopApplication:53 - New transaction created with transaction id 36
+2023-02-01 00:11:45 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:11:45 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:11:45 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:13:06 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:13:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:13:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 00:13:06 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 00:13:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:13:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 00:13:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
