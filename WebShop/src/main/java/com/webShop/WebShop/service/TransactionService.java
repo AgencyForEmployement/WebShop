@@ -6,6 +6,7 @@ import com.webShop.WebShop.repository.TransactionRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;
@@ -22,7 +23,7 @@ public class TransactionService {
         Transaction transaction = new Transaction();
         transaction.setTransactionServices(user.getShoppingCart().getServices());
         transaction.setMerchantOrderId(new Random().nextLong());
-        transaction.setMerchantOrderTimestamp(new Date());
+        transaction.setMerchantOrderTimestamp(LocalDateTime.now());
         transaction.setUser(user);
         transaction.setAmount(user.getShoppingCart().getAmount());
         return transactionRepository.save(transaction);

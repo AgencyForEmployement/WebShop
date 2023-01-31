@@ -9,7 +9,7 @@ import org.hibernate.annotations.Fetch;
 import org.hibernate.annotations.FetchMode;
 
 import javax.persistence.*;
-import java.util.Date;
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Entity
@@ -32,7 +32,7 @@ public class Transaction {
     @Column
     private Long merchantOrderId;
     @Column
-    private Date merchantOrderTimestamp;
+    private LocalDateTime merchantOrderTimestamp;
     @Column
     private double amount;
 }
