@@ -12,6 +12,7 @@ public interface TransactionDtoMapper {
     @Mapping(source = "amount", target = "amount")
     @Mapping(source = "merchantOrderTimestamp", target = "merchantOrderTimestamp")
     @Mapping(source = "merchantOrderId", target = "merchantOrderId")
+    @Mapping(source = "status", target = "status")
     Transaction fromDtoToTransaction(TransactionDto transaction);
 
     @Mapping(source = "id", target = "id")
@@ -19,5 +20,6 @@ public interface TransactionDtoMapper {
     @Mapping(source = "amount", target = "amount")
     @Mapping(source = "merchantOrderTimestamp", target = "merchantOrderTimestamp")
     @Mapping(source = "merchantOrderId", target = "merchantOrderId")
+    @Mapping(source = "status", target = "status")
     TransactionDto fromTransactionToDto(Transaction transaction);
 }

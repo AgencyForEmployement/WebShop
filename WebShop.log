@@ -1,0 +1,2048 @@
+2022-12-25 15:16:33 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2022-12-26 15:02:19 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2022-12-26 15:18:57 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2022-12-26 15:24:15 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2022-12-26 15:25:15 | INFO  | WebShopApplication:55 - New user is registered! User id is 2
+2022-12-26 15:26:09 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2022-12-26 15:27:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2022-12-26 15:48:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2022-12-26 15:48:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2022-12-26 16:08:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2022-12-26 16:09:07 | INFO  | WebShopApplication:55 - New user is registered! User id is 4
+2022-12-26 16:12:56 | ERROR | WebShopApplication:59 - Registration failed. This user is already registered with id 4
+2022-12-26 16:12:56 | WARN  | WebShopApplication:60 - Duplicate registration request for user with id 4
+2022-12-26 16:13:12 | ERROR | WebShopApplication:59 - Registration failed. This user is already registered with id 4
+2022-12-26 16:13:12 | WARN  | WebShopApplication:60 - Duplicate registration request for user with id 4
+2022-12-26 16:13:31 | INFO  | WebShopApplication:55 - New user is registered! User id is 6
+2022-12-26 16:15:37 | ERROR | WebShopApplication:59 - Registration failed. This user is already registered with id 4
+2022-12-26 16:15:37 | WARN  | WebShopApplication:60 - Duplicate registration request for user with id 4
+2022-12-26 16:20:19 | ERROR | WebShopApplication:59 - Registration failed. This user is already registered with id 4
+2022-12-26 16:20:19 | WARN  | WebShopApplication:60 - Duplicate registration request for user with id 4
+2022-12-26 16:21:44 | INFO  | WebShopApplication:55 - New user is registered! User id is 8
+2022-12-26 16:21:52 | ERROR | WebShopApplication:59 - Registration failed. This user is already registered with id 2
+2022-12-26 16:21:52 | WARN  | WebShopApplication:60 - Duplicate registration request for user with id 2
+2022-12-26 18:40:03 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2022-12-26 18:42:35 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2022-12-26 18:42:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:38:21 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-28 21:42:58 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-28 21:42:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:44:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:44:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:46:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:46:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:47:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:54:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:57:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:58:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:59:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 21:59:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:00:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:01:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:01:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:01:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:02:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:02:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:02:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:02:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:02:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:03:05 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:03:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:03:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:04:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:04:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:04:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:04:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:05:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:05:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:05:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:05:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:06:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:06:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:06:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:06:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:06:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:07:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:10:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:10:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:10:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:10:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:12:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:12:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:13:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:13:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:18:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:19:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:23:23 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-28 22:23:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:23:41 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-28 22:23:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:26:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:29:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:29:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:30:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:33:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:34:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:37:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:37:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:38:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:38:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:40:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:40:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:40:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:49:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:49:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:49:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:51:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:52:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:54:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:54:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:54:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:55:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:56:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:56:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:56:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:57:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:57:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:59:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 22:59:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:00:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:00:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:00:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:01:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:02:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:02:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:03:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:03:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:06:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:06:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:07:05 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:10:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:15:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:16:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:16:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:16:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:17:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:17:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:22:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:23:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:24:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:24:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-28 23:24:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 00:51:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 00:51:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:17:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:18:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:19:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:20:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:20:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:20:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:21:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:21:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:21:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:22:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:22:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:22:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:26:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:26:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:30:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:31:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:32:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:33:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:33:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:33:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:34:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:35:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:35:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:35:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:35:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:36:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:36:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:36:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:37:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:37:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:37:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:37:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:38:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:38:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:38:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:40:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:40:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:42:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:42:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:42:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:42:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:43:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:43:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:44:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:44:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:47:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:47:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:51:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:52:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:52:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:52:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:52:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:54:05 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:54:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:54:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:55:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:55:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:55:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:55:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:56:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:56:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:57:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:58:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:58:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:58:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 12:59:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:04:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:05:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:06:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:06:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:07:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:07:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:07:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:08:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:08:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:09:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:09:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:10:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:10:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:10:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:11:00 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:11:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:12:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:13:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:13:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:14:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:14:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:14:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:14:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:15:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:15:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:17:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:17:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:24:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:24:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:24:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:26:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:26:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:26:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:30:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:30:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:30:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:31:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:31:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:31:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:32:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:56:47 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-29 13:56:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:56:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 13:56:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:13:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:13:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:13:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:17:50 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:18:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:18:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:20:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:20:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:20:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:21:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:21:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:21:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:23:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:38 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:31:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:31:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:32:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:32:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:32:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:34:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:37:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:37:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:37:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:38:29 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:39:12 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:39:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:39:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:39:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:43:21 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:43:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:43:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:43:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:52:07 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:53:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:53:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:53:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:53:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:53:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:53:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:54:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:54:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:54:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 15:58:38 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 15:59:26 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:00:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:00:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:00:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:01:20 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:01:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:01:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:01:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:07:12 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:07:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:07:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:07:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:08:44 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:09:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:09:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:09:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:23:22 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:23:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:23:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:23:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:37:30 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:39:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:39:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:39:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:39:29 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:47:53 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:49:01 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:49:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:49:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:49:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:49:39 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:52:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:52:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:52:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:52:55 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 16:53:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:53:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 16:53:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:05:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:05:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:05:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:06:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:06:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:06:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:07:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:10:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:10:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:10:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:12:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:14:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:14:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:14:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:15:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:15:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:15:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:15:43 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 17:16:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:16:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:16:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:17:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:17:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:17:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:19:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:20:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:21:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:21:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:21:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:23:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:24:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:24:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:24:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:25:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:25:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:25:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:26:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:27:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:27:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:27:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:28:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:28:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:28:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:29:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:29:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:29:22 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:31:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:32:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:34:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:36:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:37:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:37:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:37:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:39:25 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 17:39:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:39:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:39:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:40:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:40:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:40:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:24 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 17:41:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:41:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:45:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:45:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 17:45:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:03:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:03:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:03:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:03:39 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 18:11:00 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 18:11:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:11:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:17:07 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-29 18:20:32 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-29 18:20:35 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-29 18:21:24 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-29 18:21:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:21:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:22:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:22:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:26:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:26:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:27:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:27:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:29:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:29:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:45 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:32:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:37:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:37:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:39:52 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-29 18:39:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:39:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:40:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:40:53 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:42:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:42:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:43:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:43:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:48:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:48:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:51:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-29 18:51:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:22:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:22:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:22:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:22:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:34:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:34:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:34:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:34:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:35:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:35:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:35:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:35:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:36:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:37:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:37:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:37:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:37:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:38:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:38:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:38:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:38:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:43:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:43:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:43:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:43:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:44:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:45:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:45:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:45:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:45:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:47:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:48:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:49:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:50:44 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 01:51:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:16:35 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 02:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:16 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 02:17:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:17:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:18:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:18:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:18:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:18:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:19:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:19:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:19:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:19:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:22:02 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 02:22:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:22:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:22:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:22:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:24:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:24:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:24:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:24:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:27:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:27:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:27:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 02:27:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:45:34 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 13:51:33 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-01-30 13:51:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:51:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:51:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:51:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:52:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:52:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:52:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:52:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:53:45 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 13:53:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:53:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:53:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 13:53:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:04:28 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:04:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:04:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:04:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:04:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:07:59 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:08:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:08:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:08:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:08:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:10:18 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:10:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:10:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:10:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:10:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:11:20 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:12:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:12:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:12:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:12:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:21:30 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:21:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:21:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:21:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:21:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:23:26 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:23:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:23:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:23:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:23:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:25:35 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:26:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:26:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:26:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:26:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:32:31 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-01-30 14:33:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:33:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:33:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:33:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:33:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:31 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:34:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:34:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:31 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:36:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:36:51 | INFO  | WebShopApplication:53 - New transaction created with transaction id 10
+2023-01-30 14:36:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:36:56 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:36:56 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:38:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:39:16 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:40:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:40 | INFO  | WebShopApplication:53 - New transaction created with transaction id 11
+2023-01-30 14:41:40 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:40 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:41:40 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:49 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:42:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:43:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:54 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:44:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:11 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:19 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:45:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:16 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:21 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:33 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:46:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:26 | INFO  | WebShopApplication:53 - New transaction created with transaction id 12
+2023-01-30 14:47:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:47:26 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:07 | INFO  | WebShopApplication:53 - New transaction created with transaction id 13
+2023-01-30 14:49:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:50 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:53 - New transaction created with transaction id 14
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:49:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 14:50:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:40:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:43:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:51:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:13 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:55:36 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:11 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:34 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:52 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 15:58:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:04 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:12 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:04:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:06 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:07:42 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:07 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:08:20 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:09:01 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:10:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:48 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:11:58 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:17 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:28 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:37 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:12:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:13:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:14:57 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:29 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:15:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:16:47 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:02 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:17:27 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:15 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:24 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:18:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:03 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:18 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:19:23 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:20:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:20:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-01-30 16:21:51 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:44:04 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 16:45:32 | INFO  | WebShopApplication:46 - User with user id  2 is logged in.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:32 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:32 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:48 | INFO  | WebShopApplication:57 - Service with service id 2 removed from user cart. Cart id 1
+2023-02-01 16:45:55 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:55 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:57 | INFO  | WebShopApplication:57 - Service with service id 1 removed from user cart. Cart id 1
+2023-02-01 16:45:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:45:59 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:06 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 16:46:09 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:46:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:13 | INFO  | WebShopApplication:53 - New transaction created with transaction id 15
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:46:14 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:33 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 16:57:35 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:57:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:35 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:53 - New transaction created with transaction id 16
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 16:57:38 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:06 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 17:11:08 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:11:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:08 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:53 - New transaction created with transaction id 17
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:11:09 | INFO  | WebShopApplication:42 - Accessing from user to all transactions.
+2023-02-01 17:16:26 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:16:43 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:43 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:43 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:48 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:48 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:48 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:58 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:16:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:16:58 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:18:57 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:18:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:18:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:18:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:18:57 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:18:57 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:20:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:20:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:20:34 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 17:20:35 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:20:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:36 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:20:36 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:24:25 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:24:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:25 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:25 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:24:27 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 17:24:29 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:24:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:29 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:24:29 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:26:48 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:27:30 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:27:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:27:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:27:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:27:30 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:27:30 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:28:21 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:28:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:28:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:28:40 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:28:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:40 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:28:40 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:32:17 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:34:42 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:34:51 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:34:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:34:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:34:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:34:51 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:34:51 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:36:33 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:36:49 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:37:03 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:37:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:37:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:37:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:37:10 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:37:10 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:37:59 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 17:38:02 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:38:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:38:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:38:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:38:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:38:06 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:39:11 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:39:38 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:39:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:39:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:39:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:39:46 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:39:46 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:42:45 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:42:45 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:42:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:42:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:42:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:42:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:42:55 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:51:06 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:51:24 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:51:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:51:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:51:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:51:24 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:51:24 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:52:20 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:52:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:52:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:52:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:52:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:52:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:52:58 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:53:08 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:53:40 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 17:53:47 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:53:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:53:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:53:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:53:47 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:53:47 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:53:47 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:54:04 | INFO  | WebShopApplication:67 - New transaction created with transaction id 22
+2023-02-01 17:54:15 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:54:15 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:54:32 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:54:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:54:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:54:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:54:32 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:54:40 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:54:40 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:54:40 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:07 | INFO  | WebShopApplication:48 - New service with service id 2 added tp cart
+2023-02-01 17:55:07 | INFO  | WebShopApplication:48 - New service with service id 3 added tp cart
+2023-02-01 17:55:12 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:55:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:15 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:55:15 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:15 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:23 | INFO  | WebShopApplication:67 - New transaction created with transaction id 23
+2023-02-01 17:55:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:39 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:55:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:55:45 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:55:45 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:45 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:45 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:55:45 | INFO  | WebShopApplication:48 - New service with service id 3 added tp cart
+2023-02-01 17:55:53 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 17:56:23 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:56:23 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 17:56:23 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 17:56:24 | INFO  | WebShopApplication:67 - New transaction created with transaction id 24
+2023-02-01 17:56:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 17:56:24 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 18:06:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 18:06:12 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 18:06:12 | INFO  | WebShopApplication:54 - Accessing from user to all transactions.
+2023-02-01 18:18:33 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 18:18:41 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 21:14:48 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 21:14:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:14:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:14:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:14:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:14:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:14:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:15:09 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:15:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:09 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:09 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:15:25 | INFO  | WebShopApplication:48 - New service with service id 1 added tp cart
+2023-02-01 21:15:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:15:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:15:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:15:29 | INFO  | WebShopApplication:66 - New transaction created with transaction id 25
+2023-02-01 21:15:29 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:17:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:17:17 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:17:34 | INFO  | WebShopApplication:48 - New service with service id 3 added tp cart
+2023-02-01 21:17:35 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:17:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:35 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:17:35 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:17:35 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:17:37 | INFO  | WebShopApplication:66 - New transaction created with transaction id 26
+2023-02-01 21:17:37 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:17:37 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:18:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:18:31 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:18:39 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:18:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:18:39 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:20:56 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:20:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:56 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:56 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:20:57 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:20:57 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:20:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:20:59 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:20:59 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:21:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:21:02 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:23:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:23:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:23:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:23:16 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:23:16 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:23:16 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:23:16 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:23:16 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:38 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:38 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:38 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:41 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:41 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:49 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:24:49 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:24:49 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:25:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:25:27 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:25:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:25:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:59 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:25:59 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:25:59 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:25:59 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:50 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:52 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:52 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:52 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:52 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:52 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:55 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:55 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:27:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:27:58 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:29:26 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-01 21:29:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:29:33 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:53 - Accessing from user to all transactions.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:32 - Accessing to all services.
+2023-02-01 21:29:33 | INFO  | WebShopApplication:38 - Loading user cart...
+2023-02-01 21:36:07 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!

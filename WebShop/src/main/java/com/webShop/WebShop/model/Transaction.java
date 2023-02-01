@@ -1,6 +1,7 @@
 package com.webShop.WebShop.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.webShop.WebShop.enums.TransactionStatus;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -35,4 +36,6 @@ public class Transaction {
     private LocalDateTime merchantOrderTimestamp;
     @Column
     private double amount;
+    @Column
+    private TransactionStatus status;
 }
