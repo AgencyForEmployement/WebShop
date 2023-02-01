@@ -8,5 +8,5 @@ public class TransactionDto {
     public List<ServicesDto> services;
     public double amount;
     public LocalDateTime merchantOrderTimestamp;
-    public long merchantOrderId;
+    public int merchantOrderId;
 }

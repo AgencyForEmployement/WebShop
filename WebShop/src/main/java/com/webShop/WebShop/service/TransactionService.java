@@ -22,10 +22,15 @@ public class TransactionService {
     public Transaction saveTransaction(User user) {
         Transaction transaction = new Transaction();
         transaction.setTransactionServices(user.getShoppingCart().getServices());
-        transaction.setMerchantOrderId(new Random().nextLong());
+        transaction.setMerchantOrderId(generateRandomNumber());
         transaction.setMerchantOrderTimestamp(LocalDateTime.now());
         transaction.setUser(user);
         transaction.setAmount(user.getShoppingCart().getAmount());
         return transactionRepository.save(transaction);
+    }
+
+    private int generateRandomNumber() {
+        int m = (int) Math.pow(10, 10 - 1);
+        return m + new Random().nextInt(9 * m);
     }
 }

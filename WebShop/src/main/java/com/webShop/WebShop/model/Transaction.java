@@ -30,7 +30,7 @@ public class Transaction {
     @JoinColumn(name = "user_id")
     private User user;
     @Column
-    private Long merchantOrderId;
+    private int merchantOrderId;
     @Column
     private LocalDateTime merchantOrderTimestamp;
     @Column
