@@ -2,6 +2,7 @@ package com.webShop.WebShop.controller;
 
 import com.webShop.WebShop.WebShopApplication;
 import com.webShop.WebShop.dto.*;
+import com.webShop.WebShop.enums.TransactionStatus;
 import com.webShop.WebShop.mapper.TransactionDtoMapper;
 import com.webShop.WebShop.model.Services;
 import com.webShop.WebShop.model.Transaction;
@@ -97,7 +98,7 @@ public class TransactionController {
     @PostMapping("/paypalUpdate")
     public ResponseEntity<String> paypalUpdate(@RequestBody PayPalPaymentDTO dto){
         Transaction t = transactionService.findByPaymentId(dto.getPaymentId());
-        t.setStatus("paid");
+        t.setStatus(TransactionStatus.SUCCESS);
         transactionService.save(t);
         return new ResponseEntity<>("success", HttpStatus.OK);
     }
@@ -110,7 +111,7 @@ public class TransactionController {
         String redirectionLink = restTemplate.postForObject("http://localhost:8081/bitcoin/savetransaction", bitcoinDto, String.class);
         Transaction t = transactionService.findByMerchantOrderId(bitcoinDto.getMerchantOrderId());
         t.setPaymentId(bitcoinDto.getOrderId());
-        t.setStatus("new");
+        t.setStatus(TransactionStatus.PAYMENT_REQUESTED);
         t.setPaymentMethod("crypto");
         t.setCurrency("EUR");
         transactionService.save(t);
@@ -120,7 +121,7 @@ public class TransactionController {
     @PostMapping("/bitcoinUpdate")
     public ResponseEntity<String> bitcoinUpdate(@RequestBody BitcoinPaymentDTO dto){
         Transaction t = transactionService.findByPaymentId(dto.getOrderId());
-        t.setStatus("paid");
+        t.setStatus(TransactionStatus.SUCCESS);
         transactionService.save(t);
         return new ResponseEntity<>("success", HttpStatus.OK);
     }

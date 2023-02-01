@@ -40,8 +40,8 @@ public class Transaction {
     private TransactionStatus status;
     @Column
     private String currency;
-    @Column
-    private String status;
+//    @Column
+//    private String status;
     @Column
     private String paymentMethod;
     @Column

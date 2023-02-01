@@ -2046,3 +2046,5 @@
 2023-02-01 21:29:33 | INFO  | WebShopApplication:32 - Accessing to all services.
 2023-02-01 21:29:33 | INFO  | WebShopApplication:38 - Loading user cart...
 2023-02-01 21:36:07 | INFO  | WebShopApplication:13 - Hello from WebShopApplication! Welcome back!
+2023-02-02 00:15:36 | INFO  | WebShopApplication:15 - Hello from WebShopApplication! Welcome back!
+2023-02-02 00:16:14 | INFO  | WebShopApplication:15 - Hello from WebShopApplication! Welcome back!
