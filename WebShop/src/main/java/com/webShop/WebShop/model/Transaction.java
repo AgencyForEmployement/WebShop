@@ -35,4 +35,12 @@ public class Transaction {
     private LocalDateTime merchantOrderTimestamp;
     @Column
     private double amount;
+    @Column
+    private String currency;
+    @Column
+    private String status;
+    @Column
+    private String paymentMethod;
+    @Column
+    private String paymentId;
 }
