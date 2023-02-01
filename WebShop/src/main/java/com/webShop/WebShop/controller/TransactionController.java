@@ -1,9 +1,7 @@
 package com.webShop.WebShop.controller;
 
 import com.webShop.WebShop.WebShopApplication;
-import com.webShop.WebShop.dto.BankStatusTransactionDto;
-import com.webShop.WebShop.dto.ServicesDto;
-import com.webShop.WebShop.dto.TransactionDto;
+import com.webShop.WebShop.dto.*;
 import com.webShop.WebShop.mapper.TransactionDtoMapper;
 import com.webShop.WebShop.model.Services;
 import com.webShop.WebShop.model.Transaction;
@@ -12,12 +10,14 @@ import com.webShop.WebShop.service.TransactionService;
 import com.webShop.WebShop.service.UserService;
 import lombok.AllArgsConstructor;
 import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,6 +30,8 @@ public class TransactionController {
     private final TransactionDtoMapper transactionDtoMapper;
     private final UserService userService;
     final static Logger log = Logger.getLogger(WebShopApplication.class.getName());
+    @Autowired
+    RestTemplate restTemplate;
 
     @PreAuthorize("hasAnyRole('USER')")
     @GetMapping
@@ -75,4 +77,51 @@ public class TransactionController {
         return new ResponseEntity<>(HttpStatus.NOT_FOUND);
     }
 
+    @PreAuthorize("hasAnyRole('USER')")
+    @PostMapping("/paypal")
+    public ResponseEntity<String> paypalPayment(@RequestBody PayPalWebshopDto ppDto){
+        System.out.println(ppDto);
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        PayPalOrderDto order = new PayPalOrderDto(ppDto.getPrice(), ppDto.getDescription());
+        PayPalPaymentDTO response = restTemplate.postForObject("http://localhost:8081/paypal/send", order, PayPalPaymentDTO.class);
+        System.out.println(response);
+        Transaction t = transactionService.findByMerchantOrderId(ppDto.getMerchantOrderId());
+        t.setPaymentId(response.getPaymentId());
+        t.setStatus(response.getStatus());
+        t.setPaymentMethod("paypal");
+        transactionService.save(t);
+        System.out.println(response.getLink());
+        return new ResponseEntity<>(response.getLink(), HttpStatus.OK);
+    }
+
+    @PostMapping("/paypalUpdate")
+    public ResponseEntity<String> paypalUpdate(@RequestBody PayPalPaymentDTO dto){
+        Transaction t = transactionService.findByPaymentId(dto.getPaymentId());
+        t.setStatus("paid");
+        transactionService.save(t);
+        return new ResponseEntity<>("success", HttpStatus.OK);
+    }
+
+    @PreAuthorize("hasAnyRole('USER')")
+    @PostMapping("/bitcoin")
+    public ResponseEntity<String> bitcoinPayment(@RequestBody BitcoinWebshopDto bitcoinDto){
+        System.out.println(bitcoinDto);
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        String redirectionLink = restTemplate.postForObject("http://localhost:8081/bitcoin/savetransaction", bitcoinDto, String.class);
+        Transaction t = transactionService.findByMerchantOrderId(bitcoinDto.getMerchantOrderId());
+        t.setPaymentId(bitcoinDto.getOrderId());
+        t.setStatus("new");
+        t.setPaymentMethod("crypto");
+        t.setCurrency("EUR");
+        transactionService.save(t);
+        return new ResponseEntity<>(redirectionLink, HttpStatus.OK);
+    }
+
+    @PostMapping("/bitcoinUpdate")
+    public ResponseEntity<String> bitcoinUpdate(@RequestBody BitcoinPaymentDTO dto){
+        Transaction t = transactionService.findByPaymentId(dto.getOrderId());
+        t.setStatus("paid");
+        transactionService.save(t);
+        return new ResponseEntity<>("success", HttpStatus.OK);
+    }
 }

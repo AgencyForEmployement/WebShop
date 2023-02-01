@@ -11,6 +11,6 @@ public interface TransactionRepository extends JpaRepository<Transaction, Long> 
 
     @Query(value= "select t from Transaction t join fetch User u where u.id = ?1", nativeQuery = true)
     List<Transaction> findTransactionsForUser(long id);
-
-    Transaction findByMerchantOrderId(int merchantOrderId);
+    Transaction findByPaymentId(String paymentId);
+    Transaction findByMerchantOrderId(long merchantOrderId);
 }

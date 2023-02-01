@@ -31,6 +31,11 @@ public class TransactionService {
         transaction.setUser(user);
         transaction.setAmount(user.getShoppingCart().getAmount());
         transaction.setStatus(TransactionStatus.IN_PROGRESS);
+        //transaction.setMerchantOrderId((long)(new Random().nextDouble()*1234567L));
+        //transaction.setCurrency("EUR");
+        //transaction.setStatus("new");
+        //transaction.setPaymentMethod("");
+        //transaction.setPaymentId("");
         return transactionRepository.save(transaction);
     }
 
@@ -51,4 +56,8 @@ public class TransactionService {
             return transaction;
         } else return null;
     }
+
+    public Transaction findByPaymentId(String paymentId) { return transactionRepository.findByPaymentId(paymentId);}
+    public Transaction findByMerchantOrderId(long merchantOrderId) { return transactionRepository.findByMerchantOrderId(merchantOrderId);}
+    public void save(Transaction t) {transactionRepository.save(t);}
 }

@@ -3,6 +3,8 @@ package com.webShop.WebShop;
 import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 public class WebShopApplication {
@@ -13,4 +15,8 @@ public class WebShopApplication {
 		log.info("Hello from WebShopApplication! Welcome back!");
 	}
 
+	@Bean
+	RestTemplate restTemplate() {
+		return new RestTemplate();
+	}
 }

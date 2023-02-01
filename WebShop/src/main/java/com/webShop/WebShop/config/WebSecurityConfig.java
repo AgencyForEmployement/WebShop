@@ -52,6 +52,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .exceptionHandling().authenticationEntryPoint(restAuthenticationEntryPoint).and()
                 .authorizeRequests().antMatchers("/authentication/login").permitAll()
                 .antMatchers("/authentication/register").permitAll()
+                .antMatchers("/authentication/getPayments").permitAll()
+                .antMatchers("/transactions/paypalUpdate").permitAll()
+                .antMatchers("/transactions/bitcoinUpdate").permitAll()
                 .anyRequest().authenticated().and()
                 .cors().and()
                 .addFilterBefore(new TokenAuthenticationFilter(tokenUtils, customUserDetailsService), BasicAuthenticationFilter.class);
@@ -63,7 +66,10 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     public void configure(WebSecurity web){
         web.ignoring().antMatchers(HttpMethod.POST, "/authentication/login")
                 .antMatchers(HttpMethod.POST, "/authentication/register")
-         .antMatchers(HttpMethod.POST, "/transactions/status");
+                .antMatchers(HttpMethod.POST, "/transactions/status")
+                .antMatchers(HttpMethod.GET, "/authentication/getPayments")
+                .antMatchers(HttpMethod.POST, "/transactions/paypalUpdate")
+                .antMatchers(HttpMethod.POST, "/transactions/bitcoinUpdate");
     }
 
 }

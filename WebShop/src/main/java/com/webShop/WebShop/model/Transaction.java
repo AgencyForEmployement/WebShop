@@ -38,4 +38,12 @@ public class Transaction {
     private double amount;
     @Column
     private TransactionStatus status;
+    @Column
+    private String currency;
+    @Column
+    private String status;
+    @Column
+    private String paymentMethod;
+    @Column
+    private String paymentId;
 }
