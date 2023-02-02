@@ -87,8 +87,9 @@ public class TransactionController {
         PayPalPaymentDTO response = restTemplate.postForObject("http://localhost:8081/paypal/send", order, PayPalPaymentDTO.class);
         System.out.println(response);
         Transaction t = transactionService.findByMerchantOrderId((int)ppDto.getMerchantOrderId());
+        t.setCurrency("EUR");
         t.setPaymentId(response.getPaymentId());
-        t.setStatus(response.getStatus());
+        t.setStatus(TransactionStatus.PAYMENT_REQUESTED);
         t.setPaymentMethod("paypal");
         transactionService.save(t);
         System.out.println(response.getLink());

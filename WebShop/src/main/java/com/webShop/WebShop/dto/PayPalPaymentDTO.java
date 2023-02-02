@@ -14,5 +14,5 @@ public class PayPalPaymentDTO {
 
     private String paymentId;
     private String link;
-    private TransactionStatus status;
+    private String status;
 }
