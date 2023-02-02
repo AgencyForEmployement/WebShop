@@ -44,15 +44,6 @@ public class TransactionController {
        if(userTran.size() != 0){
            for (Transaction t : userTran){
                transactions.add(transactionDtoMapper.fromTransactionToDto(t));
-//               TransactionDto dto = new TransactionDto();
-//               dto.id = t.getId();
-//               dto.amount = t.getAmount();
-//               dto.merchantOrderId = t.getMerchantOrderId();
-//               dto.merchantOrderTimestamp = t.getMerchantOrderTimestamp();
-//               for(Services s : t.getTransactionServices()){
-//                   dto.services.add(new ServicesDto(0, s.getName(), s.getDescription(),s.getPrice()));
-//               }
-//               transactions.add(dto);
                log.info("Accessing from user to all transactions.");
            }
        }
@@ -66,7 +57,7 @@ public class TransactionController {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         User user = (User)authentication.getPrincipal();
         TransactionDto transaction = transactionDtoMapper.fromTransactionToDto(transactionService.saveTransaction(user));
-        log.info("New transaction created with transaction id " + transaction.id);
+        log.info("New transaction created with transaction id " + transaction.id +" by bank");
         return new ResponseEntity<>(transaction, HttpStatus.CREATED);
     }
 

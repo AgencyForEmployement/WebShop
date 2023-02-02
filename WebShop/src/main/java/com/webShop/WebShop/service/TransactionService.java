@@ -32,9 +32,8 @@ public class TransactionService {
         transaction.setAmount(user.getShoppingCart().getAmount());
         transaction.setStatus(TransactionStatus.IN_PROGRESS);
         //transaction.setMerchantOrderId((long)(new Random().nextDouble()*1234567L));
-        //transaction.setCurrency("EUR");
-        //transaction.setStatus("new");
-        //transaction.setPaymentMethod("");
+        transaction.setCurrency("EUR");
+        transaction.setPaymentMethod("CREDIT CARD");
         //transaction.setPaymentId("");
         return transactionRepository.save(transaction);
     }
