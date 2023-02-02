@@ -69,7 +69,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers(HttpMethod.POST, "/transactions/status")
                 .antMatchers(HttpMethod.GET, "/authentication/getPayments")
                 .antMatchers(HttpMethod.POST, "/transactions/paypalUpdate")
-                .antMatchers(HttpMethod.POST, "/transactions/bitcoinUpdate");
+                .antMatchers(HttpMethod.POST, "/transactions/bitcoinUpdate")
+                .antMatchers(HttpMethod.GET, "/users/*");
     }
 
 }
