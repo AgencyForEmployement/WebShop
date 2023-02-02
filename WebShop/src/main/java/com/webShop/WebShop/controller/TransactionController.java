@@ -86,7 +86,7 @@ public class TransactionController {
         PayPalOrderDto order = new PayPalOrderDto(ppDto.getPrice(), ppDto.getDescription());
         PayPalPaymentDTO response = restTemplate.postForObject("http://localhost:8081/paypal/send", order, PayPalPaymentDTO.class);
         System.out.println(response);
-        Transaction t = transactionService.findByMerchantOrderId(ppDto.getMerchantOrderId());
+        Transaction t = transactionService.findByMerchantOrderId((int)ppDto.getMerchantOrderId());
         t.setPaymentId(response.getPaymentId());
         t.setStatus(response.getStatus());
         t.setPaymentMethod("paypal");
@@ -109,7 +109,7 @@ public class TransactionController {
         System.out.println(bitcoinDto);
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         String redirectionLink = restTemplate.postForObject("http://localhost:8081/bitcoin/savetransaction", bitcoinDto, String.class);
-        Transaction t = transactionService.findByMerchantOrderId(bitcoinDto.getMerchantOrderId());
+        Transaction t = transactionService.findByMerchantOrderId((int)bitcoinDto.getMerchantOrderId());
         t.setPaymentId(bitcoinDto.getOrderId());
         t.setStatus(TransactionStatus.PAYMENT_REQUESTED);
         t.setPaymentMethod("crypto");

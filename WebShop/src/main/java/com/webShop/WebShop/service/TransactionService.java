@@ -58,6 +58,6 @@ public class TransactionService {
     }
 
     public Transaction findByPaymentId(String paymentId) { return transactionRepository.findByPaymentId(paymentId);}
-    public Transaction findByMerchantOrderId(long merchantOrderId) { return transactionRepository.findByMerchantOrderId(merchantOrderId);}
+    public Transaction findByMerchantOrderId(int merchantOrderId) { return transactionRepository.findByMerchantOrderId(merchantOrderId);}
     public void save(Transaction t) {transactionRepository.save(t);}
 }
