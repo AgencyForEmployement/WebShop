@@ -21,5 +21,6 @@ public interface TransactionDtoMapper {
     @Mapping(source = "merchantOrderTimestamp", target = "merchantOrderTimestamp")
     @Mapping(source = "merchantOrderId", target = "merchantOrderId")
     @Mapping(source = "status", target = "status")
+    @Mapping(source = "paymentMethod", target = "paymentMethod")
     TransactionDto fromTransactionToDto(Transaction transaction);
 }

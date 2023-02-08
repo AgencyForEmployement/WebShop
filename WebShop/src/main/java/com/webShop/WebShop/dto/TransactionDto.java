@@ -17,4 +17,5 @@ public class TransactionDto {
     public LocalDateTime merchantOrderTimestamp;
     public int merchantOrderId;
     public TransactionStatus status;
+    public String paymentMethod;
 }
